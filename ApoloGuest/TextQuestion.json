@@ -1,0 +1,13 @@
+﻿[
+	{
+		"ID": 1,
+		"TextQuestion": "Cuantos ojos tiene el ser humano??\n\n A. Uno\n B. Dos\n C. Tres\n D. Cuatro",
+		"Answer": "B"
+	},
+
+	{
+		"ID": 2,
+		"TextQuestion": "Cuando finalizo la segunda guerra mundial??\n\n A. 1946\n B. 1934\n C. 1944\n D. 1945",
+		"Answer": "D"
+	}
+]
